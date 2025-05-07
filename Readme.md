@@ -4,6 +4,12 @@
 이 Repository에는 키보드를 이용해 공을 움직일 수 있는 간단한 게임 로직이 구현된 **TypeScript** 코드가 포함되어 있습니다.
 
 ---
+## 시작하기 전에
+
+이 Repository를 fork 또는 복제하셔서, 지원자 본인만의 과제 github repository를 만들어주세요.
+
+private repository로 만드셔도 됩니다.
+
 
 ## 🛠 설치 및 실행 방법
 
@@ -40,6 +46,12 @@ npm run start
 - 기본 코드를 지우시거나 구조를 변경하셔도 됩니다.
 - **공이 벽에 부딪히는 충돌 감지(Collision Detection)** 를 구현해 주세요.
 - **TypeScript**를 사용해서 개발해 주세요.
+- **Readme.md** 파일을 과제 결과물에 맞게 수정해주세요.
+- private repository로 만드신 경우에는 다음 이메일을 github 공동 작업자로 추가해주세요.
+  - sharon@whoyaho.com
+  - circlestone@whoyaho.com
+  - mincheol@whoyaho.com
+  - ceo@whoyaho.com
 
 ---
 
@@ -59,6 +71,12 @@ Hello! Thank you for applying to Whoyaho.
 This repository contains **TypeScript** code that implements a simple game logic where you can move a ball using the keyboard.
 
 ---
+
+## Before you start
+
+Please fork or clone this repository to create your own assignment github repository.
+
+You may create it as a private repository.
 
 ## 🛠 Installation and Execution
 
@@ -95,6 +113,12 @@ After reviewing the base code, please develop two games:
 - You may delete the base code or change the structure.
 - Please implement **collision detection when the ball hits the wall**.
 - Please develop using **TypeScript**.
+- Please modify the **Readme.md** file according to your assignment results.
+- If you created a private repository, please add the following emails as github collaborators:
+  - sharon@whoyaho.com
+  - circlestone@whoyaho.com
+  - mincheol@whoyaho.com
+  - ceo@whoyaho.com
 
 ---
 
