@@ -6,10 +6,7 @@
 ---
 ## 시작하기 전에
 
-이 Repository를 fork 또는 복제하셔서, 지원자 본인만의 과제 github repository를 만들어주세요.
-
-private repository로 만드셔도 됩니다.
-
+이 Repository를 다운받으시고 초기화하셔서, 지원자 본인만의 과제 Repository를 만드시고, Github private repository로 올려주세요.
 
 ## 🛠 설치 및 실행 방법
 
@@ -47,7 +44,7 @@ npm run start
 - **공이 벽에 부딪히는 충돌 감지(Collision Detection)** 를 구현해 주세요.
 - **TypeScript**를 사용해서 개발해 주세요.
 - **Readme.md** 파일을 과제 결과물에 맞게 수정해주세요.
-- private repository로 만드신 경우에는 다음 이메일을 github 공동 작업자로 추가해주세요.
+- 다음 이메일을 Github 공동 작업자로 추가해주세요.
   - sharon@whoyaho.com
   - circlestone@whoyaho.com
   - mincheol@whoyaho.com
@@ -74,7 +71,7 @@ This repository contains **TypeScript** code that implements a simple game logic
 
 ## Before you start
 
-Please fork or clone this repository to create your own assignment github repository.
+Please clone this repository to create your own assignment github private repository.
 
 You may create it as a private repository.
 
@@ -114,7 +111,7 @@ After reviewing the base code, please develop two games:
 - Please implement **collision detection when the ball hits the wall**.
 - Please develop using **TypeScript**.
 - Please modify the **Readme.md** file according to your assignment results.
-- If you created a private repository, please add the following emails as github collaborators:
+- Please add the following emails as github collaborators:
   - sharon@whoyaho.com
   - circlestone@whoyaho.com
   - mincheol@whoyaho.com
