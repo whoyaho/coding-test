@@ -63,7 +63,7 @@ startButton?.addEventListener("click", () => {
     let isRightKeyDown = false;
     let isLeftKeyDown = false;
     let isUpKeyDown = false;
-    let IsDowhKeyDown = false;
+    let isDownKeyDown = false;
     if (!myBall) return;
     window.addEventListener("keydown", (e) => {
       myBall.speed = 1;
@@ -78,7 +78,7 @@ startButton?.addEventListener("click", () => {
         isUpKeyDown = true;
       } else if (e.key === "ArrowDown") {
         myBall.degree = 90;
-        IsDowhKeyDown = true;
+        isDownKeyDown = true;
       }
     });
     window.addEventListener("keyup", (e) => {
@@ -89,9 +89,9 @@ startButton?.addEventListener("click", () => {
       } else if (e.key === "ArrowUp") {
         isUpKeyDown = false;
       } else if (e.key === "ArrowDown") {
-        IsDowhKeyDown = false;
+        isDownKeyDown = false;
       }
-      if (!isLeftKeyDown && !isRightKeyDown && !isUpKeyDown && !IsDowhKeyDown) {
+      if (!isLeftKeyDown && !isRightKeyDown && !isUpKeyDown && !isDownKeyDown) {
         myBall.speed = 0;
       }
     });
