@@ -1,5 +1,7 @@
 # 🎮 Whoyaho Coding Test
 
+(The English assignment description is located right below the Korean version—just scroll down 😁)
+
 안녕하세요! 후야호에 지원해주셔서 감사합니다.  
 이 Repository에는 키보드를 이용해 공을 움직일 수 있는 간단한 게임 로직이 구현된 **TypeScript** 코드가 포함되어 있습니다.
 
