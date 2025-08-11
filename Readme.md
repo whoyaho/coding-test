@@ -42,7 +42,7 @@ npm run start
 ## 💡 참고사항
 
 - 게임에 재미를 더하기 위해 기획, 디자인, 구현 방식을 창의적으로 구성해주세요.
-- 기본 코드를 지우시거나 구조를 변경하셔도 됩니다.
+- 예시 코드와 같이 DOM 조작 방식으로 구현을 권장하며, 해당 코드를 지우시거나 구조를 변경하셔도 됩니다.
 - **공이 벽에 부딪히는 충돌 감지(Collision Detection)** 를 구현해 주세요.
 - **TypeScript**를 사용해서 개발해 주세요.
 - **Readme.md** 파일을 과제 결과물에 맞게 수정해주세요.
@@ -109,7 +109,7 @@ After reviewing the base code, please develop two games:
 ## 💡 Notes
 
 - Please create the planning, design, and implementation methods creatively to make the game more fun.
-- You may delete the base code or change the structure.
+- We recommend implementing it using DOM manipulation, as shown in the example code, but you may delete or modify that code and its structure as you see fit.
 - Please implement **collision detection when the ball hits the wall**.
 - Please develop using **TypeScript**.
 - Please modify the **Readme.md** file according to your assignment results.
